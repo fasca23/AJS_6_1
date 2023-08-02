@@ -1,1 +1,2 @@
 # Домашнее задание к лекции «Object, Reflection и Proxy» - for ... in
+[![Build status](https://ci.appveyor.com/api/projects/status/qrl2cf7kx4nnra9j?svg=true)](https://ci.appveyor.com/project/fasca23/ajs-6-1)
